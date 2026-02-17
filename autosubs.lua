@@ -9,7 +9,7 @@ local state = {
     offset = nil
 }
 
--- Debu Functin: Configure whether to print the log to the console and osd, only print to the console by default.
+-- Debug Function: Configure whether to print the log to the console and osd, only print to the console by default.
 local function print_msg(msg)
     print("[AutoSub-Debug] " .. msg)
     -- mp.osd_message(msg, 3)
