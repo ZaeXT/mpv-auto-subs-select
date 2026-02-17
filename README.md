@@ -1,2 +1,2 @@
 # mpv-auto-subs-select
-A MPV Script To Auto Select Subs Simply By Offset.
+A Simple MPV Script That Automatically Loads The Corresponding Subs By File Name Sort And Fixed Offset.
