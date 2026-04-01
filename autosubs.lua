@@ -1,7 +1,7 @@
 local utils = require 'mp.utils'
 
 -- Config
-local video_exts = {'mkv', 'mp4', 'avi', 'mov', 'flv', 'wmv', 'webm'}
+local video_exts = {'mkv', 'mp4', 'avi', 'mov', 'flv', 'wmv', 'webm', 'm2ts'}
 local sub_exts = {'ass', 'srt', 'ssa', 'sub', 'vtt'}
 
 local state = {
